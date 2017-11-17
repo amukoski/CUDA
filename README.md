@@ -1,3 +1,3 @@
 # CUDA
 
-Проектна задача -: https://www.overleaf.com/read/nwbrbyfhczcd
+Project : https://www.overleaf.com/read/smvwcmksbnjm
